@@ -105,6 +105,7 @@ body {
 .footer{
   background-color: rgb(46, 182, 46);
   display: flex;
+  margin: 20px 40px;
   padding: 0 40px;
   justify-content: space-between;
   position: relative;
